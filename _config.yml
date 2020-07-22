@@ -40,7 +40,7 @@ baseurl: "/Sample-Practice-Fast-Pages" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: ngpsu22
-    github: fastai
+    github: ngpsu22
 
 # Set this to true to get LaTeX math equation support
 use_math: 
